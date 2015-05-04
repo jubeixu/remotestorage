@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 merge with no-ff
+=======
+merge with no-ff
+
+merge without no-ff
+>>>>>>> dev2
