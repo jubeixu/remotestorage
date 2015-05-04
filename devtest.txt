@@ -3,3 +3,7 @@ merge test in dev111111111
 merge test in dev222222222
 
 merge test in dev@@@@@@@@@@@@@@@@
+
+merge test with --no-ff parameter
+
+merge test without parameter
